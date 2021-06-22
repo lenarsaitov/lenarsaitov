@@ -1,6 +1,3 @@
-<p align="center">
-</p>
-
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=ccf5ff)](https://en.wikipedia.org/wiki/Golang)
