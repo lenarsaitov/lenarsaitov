@@ -9,6 +9,6 @@
 <p align="center">
   <a href="https://github.com/lenarsaitov">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lenarsaitov&show_icons=true&theme=dracula"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenarsaitov&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenarsaitov&layout=compact&theme=cobalt&hide=Jupyter%20Notebook"/>
   </a>
 </p>
