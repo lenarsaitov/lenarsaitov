@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+</p>
 
-<!--
-**lenarsaitov/lenarsaitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=ccf5ff)](https://en.wikipedia.org/wiki/Golang)
+[![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)](https://ru.wikipedia.org/wiki/GitHub)
+[![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)](https://ru.wikipedia.org/wiki/Docker)
+[![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)](https://ru.wikipedia.org/wiki/MySQL)
+[![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)](https://ru.wikipedia.org/wiki/Linux)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/lenarsaitov">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenarsaitov&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenarsaitov&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook"/>
+  </a>
+</p>
